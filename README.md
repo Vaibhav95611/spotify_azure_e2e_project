@@ -1,0 +1,1 @@
+# spotify_azure_e2e_project
